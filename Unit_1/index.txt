@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" type="text/css" href="css/style.css">
+<title>Atlas Forms & Graphics </title>
+<body> 
+	<h1>Atlas Forms & Graphics </h1>
+	<p>For those of you who don't know, Atlas Forms & Graphics is a family company founded by Don McGovern. For all those who knew him will remember him well.
+
+In 1965 Don created Atlas Forms & Graphics. Even though very few of his printed prodcuts are still used by companies today, it really isn't improtant.  What is important is that we at Atals still possess not only his gentics but also his philosophy. This philosophy revolves around a passion for not only the products we sell, but more importantly, the people that we serve.
+
+It is said that knowledge comes with experience. And we have experienced the ever-changing evolution of printing for decades now. So although we are most proud of our passion and work ethic, knowledge of the printing industry is at our core.
+
+We have come a long way from the days of providing only business cards and forms. But as the decades go by and our team continues to grow, we know Don McGovern would be proud that our values and customer focus have never wavered.
+
+We are pleased to incorporate our family values into our business. We thank our customers for their support and look excitingly to the next 50 years.</p>
+</body>
+
+</html>
