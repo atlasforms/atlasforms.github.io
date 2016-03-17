@@ -1,0 +1,9 @@
+body{
+background-color: salmon;
+}
+
+h1, p{
+	color: grey;
+}
+
+
