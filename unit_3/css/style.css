@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	background: grey;
+	color: navy;
+}
+h1{
+	24px;
+	font-weight: bold;
+}
+
+}
+#headline{
+	18px;
+	font-weight: normal;
+	font-family: "New Courier"; sans-serif;
+}
+#important{
+	16px;
+	font-weight: normal;
+}
+
+a{
+	color: white;
+	text-decoration: underline;
+}
