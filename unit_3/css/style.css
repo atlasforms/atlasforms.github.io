@@ -7,18 +7,17 @@ h1 {
 	color: rgb(18,22,138);
 	font-size: 38px;
 	font-weight: bold;
+	font-family: Arial, sans-serif;
 }
 
 #headline {
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: normal;
-	font-family: "New Courier": sans-serif;
 }
 
 #importantline {
 	font-size: 16px;
 	font-weight: normal;
-	font-family: Arial: monospace;
 }
 
 a{
