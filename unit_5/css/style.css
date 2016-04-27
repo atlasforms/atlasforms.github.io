@@ -17,11 +17,19 @@ h1 {
 
 header
 { 
-	padding: 10px;
-border: 0 0 5px 0 black solid;
+	background-color: #FFED74
+	border: 1px black solid;
+	padding: 20px
 }
 
 
+#wrapper
+{
+	text-align: left;
+	font-family: 'Righteous', cursive;
+	font-size: 14px
+	font-weight: bold;
+}
 
 
 p.button {
@@ -65,12 +73,35 @@ hr
 	font-weight: bolder;
 }
 
-footer
-{ 
-	border-top: 10px white solid
+nav { 
+	background-color: #E8C667
+	border: 1px black solid;
+	padding: 20px
 }
 
+aside
+{ 
+	background-color: #FFC675
+	border: 1px black solid;
+	padding: 20px
+}
 
+article 
+{ 
+	background-color: #E89C6C
+	border: 1px black solid;
+	padding: 20px
+}
+footer
+{ 
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px
+}
 
-white solid;
+section
+{ 
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding: 20px
 }
