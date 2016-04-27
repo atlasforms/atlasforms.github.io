@@ -14,6 +14,16 @@ h1 {
 	font-family: 'Titillium Web', sans-serif;
 }
 
+
+header
+{ 
+	padding: 10px;
+border: 0 0 5px 0 black solid;
+}
+
+
+
+
 p.button {
 	font-size: 22px;
 	font-weight: bold;
@@ -48,4 +58,15 @@ p.text{
 	font-family: 'Righteous', cursive;
 	font-size: 14px
 	font-weight: bold;
+}
+
+hr
+{
+	font-weight: bolder;
+}
+
+footer
+{ 
+	padding: 10px;
+border: 5px 0 0 0 white solid;
 }
