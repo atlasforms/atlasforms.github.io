@@ -1,74 +1,8 @@
-@import <link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>; 
-@import <link href='https://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>;
-
-body{
-	text-align: center;
-	font-family: 'Righteous', cursive;
-}
-
-h1{
-	color: rgb(18,22,138);
-	font-size: 38px;
-	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
-}
-
-
 header{ 
 	background-color: #FFED74
 	border: 1px black solid;
 	padding: 20px
 }
-
-
-#wrapper{
-	text-align: left;
-	font-family: 'Righteous', cursive;
-	font-size: 14px
-	font-weight: bold;
-}
-
-
-p.button{
-	font-size: 22px;
-	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
-}
-
-p.description{
-	font-size: 16px;
-	font-weight: normal;
-	font-family: 'Titillium Web', sans-serif;
-}
-
-a{
-	color: white;
-	text-decoration: underline;
-}
-
-ol{
-	text-align: center;
-	list-style-type: none;
-}
-
-p.text{
-	text-align: left;
-	line-height: 1.5em
-	font-weight: normal;
-	margin: 2em;
-}
-
-#important{
-	text-align: center;
-	font-family: 'Righteous', cursive;
-	font-size: 14px
-	font-weight: bold;
-}
-
-hr{
-	font-weight: bolder;
-}
-
 nav{ 
 	background-color: #E8C667
 	border: 1px black solid;
@@ -97,4 +31,3 @@ section{
 	border: 1px black solid;
 	padding: 20px
 }
-
