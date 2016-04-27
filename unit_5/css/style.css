@@ -6,7 +6,7 @@ body{
 	font-family: 'Righteous', cursive;
 }
 
-h1 {
+h1{
 	color: rgb(18,22,138);
 	font-size: 38px;
 	font-weight: bold;
@@ -14,16 +14,14 @@ h1 {
 }
 
 
-header
-{ 
+header{ 
 	background-color: #FFED74
 	border: 1px black solid;
 	padding: 20px
 }
 
 
-#wrapper
-{
+#wrapper{
 	text-align: left;
 	font-family: 'Righteous', cursive;
 	font-size: 14px
@@ -31,13 +29,13 @@ header
 }
 
 
-p.button {
+p.button{
 	font-size: 22px;
 	font-weight: bold;
 	font-family: 'Titillium Web', sans-serif;
 }
 
-p.description {
+p.description{
 	font-size: 16px;
 	font-weight: normal;
 	font-family: 'Titillium Web', sans-serif;
@@ -47,7 +45,8 @@ a{
 	color: white;
 	text-decoration: underline;
 }
-ul{
+
+ol{
 	text-align: center;
 	list-style-type: none;
 }
@@ -59,47 +58,41 @@ p.text{
 	margin: 2em;
 }
 
-#important
-{
+#important{
 	text-align: center;
 	font-family: 'Righteous', cursive;
 	font-size: 14px
 	font-weight: bold;
 }
 
-hr
-{
+hr{
 	font-weight: bolder;
 }
 
-nav { 
+nav{ 
 	background-color: #E8C667
 	border: 1px black solid;
 	padding: 20px
 }
 
-aside
-{ 
+aside{ 
 	background-color: #FFC675
 	border: 1px black solid;
 	padding: 20px
 }
 
-article 
-{ 
+article{ 
 	background-color: #E89C6C
 	border: 1px black solid;
 	padding: 20px
 }
-footer
-{ 
+footer{ 
 	background-color: #FF957E
 	border: 1px black solid;
 	padding: 20px
 }
 
-section
-{ 
+section{ 
 	background-color: #FFE2B8
 	border: 1px black solid;
 	padding: 20px
