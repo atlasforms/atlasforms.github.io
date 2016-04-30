@@ -37,8 +37,8 @@ section {
     padding: 20px;
 }
 
-#two_column {
-    background-color: blue;
+#column {
+    background-color: violet;
     border: 1px black solid;
     padding: 20px;
 }
@@ -67,4 +67,5 @@ section {
     float: right;   
     width: 62%;
 }
+
 
