@@ -38,20 +38,20 @@ section {
 }
 
 #two_column {
-    background-color: #FFB7CF;
+    background-color: #FF0000;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: #FF0DFF;
     border: 1px black solid;
     padding: 20px;
 }
 
 
 #right {
-    background-color: #E55B88;
+    background-color: #E80C7A;
     border: 1px black solid;
     padding: 20px;
 }
