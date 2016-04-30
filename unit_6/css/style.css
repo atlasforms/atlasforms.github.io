@@ -31,13 +31,13 @@ footer {
     padding: 20px;
 }
 
-section {
+section#one {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
 
-#two {
+section#two {
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
