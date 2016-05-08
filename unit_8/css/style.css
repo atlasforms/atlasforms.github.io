@@ -12,11 +12,10 @@ ul{
     list-style-type: none;
 }
 
-#logo {
-  display: left;
+img {
+  display: block;
   margin: 0 auto;
   clear: both;
-  width: 30%;
 }
 
 
@@ -45,6 +44,13 @@ footer {
     background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
+}
+
+#logo {
+  display: left;
+  margin: 0 auto;
+  clear: both;
+  width: 30%;
 }
 
 #DonPic {
