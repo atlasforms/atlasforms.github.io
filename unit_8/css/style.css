@@ -28,6 +28,7 @@ nav {
 
 aside {
     background-color: #FFC675;
+    display: right;
     border: 1px black solid;
     padding: 20px;
 }
@@ -70,7 +71,7 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 60%;
 }
 
 #right {
@@ -78,5 +79,5 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 30%;
 }
