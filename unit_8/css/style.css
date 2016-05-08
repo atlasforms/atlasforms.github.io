@@ -71,7 +71,7 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 60%;
+    width: 80%;
 }
 
 #right {
@@ -79,5 +79,5 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 30%;
+    width: 15%;
 }
