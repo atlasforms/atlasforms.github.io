@@ -61,8 +61,8 @@ footer {
 
 section#two {
     background-color: grey;
-    border: 1px black solid;
-    padding: 20px;
+    border: .5% black solid;
+    padding: 10%;
 }
 
 .clearfix:after {
@@ -76,16 +76,16 @@ section#two {
 
 #left {
     background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
+    border: .5% black solid;
+    padding: 2%;
     float: left;
     width: 40%;
 }
 
 #right {
     background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
+    border: .5% black solid;
+    padding: 2%;
     float: right;
     width: 40%
 }
