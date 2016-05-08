@@ -58,14 +58,9 @@ footer {
   width: 80%;
 
 }
-section#one {
-    background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 section#two {
-    background-color: blue;
+    background-color: grey;
     border: 1px black solid;
     padding: 20px;
 }
