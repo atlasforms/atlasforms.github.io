@@ -31,12 +31,14 @@ aside {
     display: right;
     border: 1px black solid;
     padding: 20px;
+    width: 15%;
 }
 
 article {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
+    width: 80%;
 }
 
 footer {
@@ -71,13 +73,11 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 80%;
 }
 
 #right {
     background-color: pink;
     border: 1px black solid;
     padding: 20px;
-    float: right;   
-    width: 15%;
+    float: right;
 }
