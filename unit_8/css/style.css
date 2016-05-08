@@ -100,8 +100,3 @@ nav, section, aside {
 }
 }
 
-@media only screen and (min-width: 320px) {
-    nav, section, aside {
-        width: auto;
-    }
-}
