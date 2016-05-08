@@ -28,29 +28,27 @@ nav {
 aside {
     background-color: #FFC675;
     display: right;
-    border: 1px black solid;
-    padding: 20px;
-    width: 15%;
+    border: .5% black solid;
+    padding: 2%;
 }
 
 article {
     background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-    width: 80%;
+    border: 1% black solid;
+    padding: 2%;
 }
 
 footer {
     background-color: #FF957E;
     border: 1px black solid;
-    padding: 20px;
+    padding: 30px;
 }
 
 #logo {
   display: left;
   margin: 0 auto;
   clear: both;
-  width: 30%;
+  width: 20%;
 }
 
 #DonPic {
@@ -86,6 +84,7 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: left;
+    width: 60%;
 }
 
 #right {
@@ -93,4 +92,5 @@ section#two {
     border: 1px black solid;
     padding: 20px;
     float: right;
+    width: 30%
 }
