@@ -19,12 +19,6 @@ ul{
     list-style-type: none;
 }
 
-body {
-    color: rgb(18,22,138);
-    font-size: 38em;
-    font-weight: bold;
-    font-family: 'Titillium Web', sans-serif;
-}
 img {
   display: block;
   margin: 0 auto;
