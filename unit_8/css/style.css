@@ -7,6 +7,13 @@ header {
     padding: 20px;
 }
 
+body {
+    color: rgb(18,22,138);
+    font-size: 38px;
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
+
 ul{
     text-align: center;
     list-style-type: none;
