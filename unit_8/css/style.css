@@ -3,8 +3,8 @@
 
 header {
     background-color: #D0D0D0;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1em black solid;
+    padding: 20em;
 }
 
 ul{
@@ -21,8 +21,8 @@ img {
 
 nav {
     background-color: #B8B8B8;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1em black solid;
+    padding: 20em;
 }
 
 aside {
@@ -40,8 +40,8 @@ article {
 
 footer {
     background-color: #686868;
-    border: 1px black solid;
-    padding: 30px;
+    border: 1em black solid;
+    padding: 30em;
 }
 
 #logo {
@@ -75,21 +75,22 @@ section#two {
 }
 
 
-
 #left {
     background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
+    border: .5% black solid;
+    padding: 2%;
     float: left;
-    width: 30%;
+    width: 50%;
+    margin: 0 auto;
 }
 
 #right {
     background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;   
-    width: 62%;
+    border: .5% black solid;
+    padding: 2%;
+    float: right;
+    width: 30%
+    margin: 0 auto;
 }
 
 .toggle {
@@ -101,3 +102,5 @@ section#two {
     padding: 5%;
 }
 
+
+@media only screen and (max-width: )
