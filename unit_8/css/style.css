@@ -95,3 +95,16 @@ section#two {
 
 }
 
+@media only screen and (max-width: 768) {
+.toggle {
+    float: none;
+    width: auto;
+}
+}
+
+@media only screen and (max-width: 320) {
+    .button{
+        float: none;
+        width: auto;
+    }
+}
