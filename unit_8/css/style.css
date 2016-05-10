@@ -79,7 +79,7 @@ section#two {
     border: .5% black solid;
     padding: 2%;
     float: left;
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -88,7 +88,7 @@ section#two {
     border: .5% black solid;
     padding: 2%;
     float: right;
-    width: 40%
+    width: 30%
     margin: 0 auto;
 }
 
