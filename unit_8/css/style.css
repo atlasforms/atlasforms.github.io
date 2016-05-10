@@ -3,8 +3,8 @@
 
 header {
     background-color: #D0D0D0;
-    border: 1em black solid;
-    padding: 20em;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 ul{
@@ -12,6 +12,12 @@ ul{
     list-style-type: none;
 }
 
+body {
+    color: rgb(18,22,138);
+    font-size: 38em;
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
 img {
   display: block;
   margin: 0 auto;
@@ -21,8 +27,8 @@ img {
 
 nav {
     background-color: #B8B8B8;
-    border: 1em black solid;
-    padding: 20em;
+    border: 5px black solid;
+    padding: 20px;
 }
 
 aside {
@@ -40,8 +46,8 @@ article {
 
 footer {
     background-color: #686868;
-    border: 1em black solid;
-    padding: 30em;
+    border: 1px black solid;
+    padding: 30px;
 }
 
 #logo {
@@ -103,4 +109,4 @@ section#two {
 }
 
 
-@media only screen and (max-width: )
+@media only screen and (max-width:)
