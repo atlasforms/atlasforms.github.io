@@ -28,12 +28,14 @@ img {
 
 nav {
     background-color: #B8B8B8;
+    font-size: 12px;
     border: 5px black solid;
     padding: 20px;
 }
 
 aside {
     background-color: #FFC675;
+    font-size: 12px;
     display: right;
     border: 1px black solid;
     padding: 20px;
@@ -41,12 +43,14 @@ aside {
 
 article {
     background-color: #E89C6C;
+    font-size: 12px;
     border: 1px black solid;
     padding: 20px;
 }
 
 footer {
     background-color: #686868;
+    font-size: 12px;
     border: 1px black solid;
     padding: 30px;
 }
@@ -68,6 +72,7 @@ footer {
 
 section#two {
     background-color: grey;
+    font-size: 12px;
     border: 1px black solid;
     padding: 120px;
 }
@@ -84,6 +89,7 @@ section#two {
 
 #left {
     background-color: violet;
+    font-size: 12px;
     border: .5% black solid;
     padding: 2%;
     float: left;
@@ -93,6 +99,7 @@ section#two {
 
 #right {
     background-color: pink;
+    font-size: 12px;
     border: .5% black solid;
     padding: 2%;
     float: right;
