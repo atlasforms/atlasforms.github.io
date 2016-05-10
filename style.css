@@ -1,0 +1,121 @@
+@import <link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>; 
+@import <link href='https://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>;
+
+header {
+    background-color: #D0D0D0;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+    color: rgb(18,22,138);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+ul{
+    text-align: center;
+    font-size: 12px;
+    list-style-type: none;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+}
+
+
+nav {
+    background-color: #B8B8B8;
+    font-size: 12px;
+    border: 5px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    font-size: 12px;
+    display: right;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    font-size: 12px;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #686868;
+    font-size: 12px;
+    border: 1px black solid;
+    padding: 30px;
+}
+
+#logo {
+  display: left;
+  margin: 0 auto;
+  clear: both;
+  width: 20%;
+}
+
+#DonPic {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  width: 80%;
+
+}
+
+section#two {
+    background-color: grey;
+    font-size: 12px;
+    border: 1px black solid;
+    padding: 120px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+#left {
+    background-color: violet;
+    font-size: 12px;
+    border: .5% black solid;
+    padding: 2%;
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#right {
+    background-color: pink;
+    font-size: 12px;
+    border: .5% black solid;
+    padding: 2%;
+    float: right;
+    width: 30%
+    margin: 0 auto;
+}
+
+.toggle {
+    padding: 5px
+    float: left;
+}
+
+.button {
+    padding: 5px;
+}
+
+
+
