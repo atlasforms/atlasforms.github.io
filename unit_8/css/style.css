@@ -34,14 +34,14 @@ nav {
 aside {
     background-color: #FFC675;
     display: right;
-    border: .5% black solid;
-    padding: 2%;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 article {
     background-color: #E89C6C;
-    border: 1% black solid;
-    padding: 2%;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 footer {
@@ -67,8 +67,8 @@ footer {
 
 section#two {
     background-color: grey;
-    border: .5% black solid;
-    padding: 10%;
+    border: 1px black solid;
+    padding: 120px;
 }
 
 .clearfix:after {
